@@ -28,16 +28,13 @@
         margin: 0 auto;
         padding: 0;
     }
-
     .infoCardHeadline {
         color: black;
         font-weight: bold;
     }
-
     .infoCardCallActionContainer :global(.vtex-button):hover {
         background-color: white;
     }
-
     .infoCardContainer--vintage {
         background-color: #e1e1e1
       }
