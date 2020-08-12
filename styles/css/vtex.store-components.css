@@ -34,7 +34,6 @@
         font-weight: bold;
     }
 
-
     .infoCardCallActionContainer :global(.vtex-button):hover {
         background-color: white;
     }
