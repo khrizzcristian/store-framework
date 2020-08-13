@@ -6,8 +6,10 @@
       ]
     },
     "image#landingbanner": {
-        "minWidth": "100%",
-        "src": "https://storecomponents.vteximg.com.br/arquivos/box.png"
+        "props": {
+            "minWidth": "100%",
+            "src": "https://storecomponents.vteximg.com.br/arquivos/box.png"
+        }
     },
     "search-result-layout.customQuery": {
         "props": {
