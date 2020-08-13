@@ -26,13 +26,13 @@
         "tabId": "majorAppliances",
         "label": "Major Appliances",
         "defaultActiveTab": true
-      },
+      }
     },
     "tab-list.item#2": {
       "props": {
         "tabId": "electronics",
         "label": "Electronics"
-      },
+      }
     },
 
     "tab-content.item#1": {
